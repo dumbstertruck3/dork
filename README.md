@@ -37,7 +37,7 @@ For Hardware:
 
 
 ## Team Contributions
-- mmuneer: code
+- muneer: code
 - sharon: idea
 ---
 Made with ❤️ at TinkerHub Useless Projects 
