@@ -7,26 +7,23 @@
 
 
 ### Team Members
-- Team Lead: muneer - SSET
-- Member 2: sharon - SSET
+- Team Lead: Muneer - SSET
+- Member 2: Sharon - SSET
 
 ### Project Description
-tic tac toe but with a twist.
+Tic Tac Toe but with a twist.
 
 ### The Problem (that doesn't exist)
-tic tac toe isn't fun enough
+Tic Tac Toe isn't fun enough, it is good and all but after a while the players will get bored. The moves will be easier to predict.
 
 ### The Solution (that nobody asked for)
-it will be fun, trust me bro
+Its pretty simple. There only 'X' in this game. for both players, their moves are indicated by 'X', this way the game will be hard to keep of and the players will eventually start to loose their minds. And the best part the would'nt let you know who really won. it'd just say "i think someone won" 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - Python
-
-For Hardware:
-- random module (build in)
-
+- 
 # Screenshots (Add at least 3)
 
 ![Screenshot1](sc1.png)
