@@ -32,6 +32,7 @@ For Software:
 
 ![Screenshot3](sc3.png)
 
+video demo at `./video_demo.webm`
 
 ## Team Contributions
 - muneer: code
